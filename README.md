@@ -13,14 +13,7 @@
 我喜欢编程，学习，创造，分享。我的目标是成为一个优秀的机器人工程师。我的座右铭是：**永远保持好奇，永远追求进步**。
 
 - 📫 你可以通过以下方式联系我：
-  - 邮箱：1873814679@qq.ocm
-
-- 📊 统计卡片：                                                                                                                        
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robot-WT&show_icons=true&theme=radical)         
-
-- 🔥 连续提交天数：
- <div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=robot-WT" /> </div>
+  - 邮箱：linkji2020@163.com
  
 - 📊 代码统计
 <!--START_SECTION:waka-->
