@@ -13,9 +13,10 @@
 我喜欢编程，学习，创造，分享。
 
 - 📫 你可以通过以下方式联系我：
-  - 邮箱：linkji2020@163.com
- 
-                                        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinkJi&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+- 邮箱：linkji2020@163.com
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinkJi&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
