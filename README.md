@@ -21,7 +21,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 **🐱 My GitHub Data** 
 
@@ -85,7 +85,7 @@ Java                     7 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinkJi/LinkJi/main/assets/bar_graph.png)
 
 
- Last Updated on 14/11/2024 18:43:23 UTC
+ Last Updated on 15/11/2024 18:42:56 UTC
 <!--END_SECTION:waka-->
 
  
