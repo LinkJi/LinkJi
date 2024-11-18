@@ -27,6 +27,8 @@
 
 > 📦 194 Bytes Used in GitHub's Storage 
  > 
+> 🏆 103 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -85,7 +87,7 @@ Java                     7 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinkJi/LinkJi/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2024 18:40:55 UTC
+ Last Updated on 18/11/2024 18:43:38 UTC
 <!--END_SECTION:waka-->
 
  
