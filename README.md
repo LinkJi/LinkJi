@@ -25,7 +25,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 198 Bytes Used in GitHub's Storage 
+> 📦 199 Bytes Used in GitHub's Storage 
  > 
 > 🏆 104 Contributions in the Year 2024
  > 
@@ -87,7 +87,7 @@ Java                     7 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinkJi/LinkJi/main/assets/bar_graph.png)
 
 
- Last Updated on 29/11/2024 18:42:57 UTC
+ Last Updated on 30/11/2024 18:41:08 UTC
 <!--END_SECTION:waka-->
 
  
