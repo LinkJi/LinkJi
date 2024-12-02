@@ -19,11 +19,15 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinkJi&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2014%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 199 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 104 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,6 +35,45 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+🌆 Daytime                259 commits         ██████████░░░░░░░░░░░░░░░   38.20 % 
+🌃 Evening                289 commits         ███████████░░░░░░░░░░░░░░   42.63 % 
+🌙 Night                  72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Tuesday                  141 commits         █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+Wednesday                121 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Thursday                 94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Friday                   102 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Saturday                 94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Sunday                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -44,7 +87,7 @@ Java                     7 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/LinkJi/LinkJi/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2024 18:41:42 UTC
+ Last Updated on 02/12/2024 18:44:54 UTC
 <!--END_SECTION:waka-->
 
  
